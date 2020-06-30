@@ -1,0 +1,3 @@
+rootProject.name='OpenCV Face'
+include ':app'
+include ':openCVLibrary343'
